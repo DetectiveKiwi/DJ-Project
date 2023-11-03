@@ -6,7 +6,7 @@ For anyone interested in building your own DJ software, here is a list of skills
 
 - Threading: One needs to be able to start processes and still perform independent actions
 - tkinter: This library has been useful in building a GUI in Python
-- Digital Sound Processing (DSP): There are a ton of digital filters that one needs to be familiar with. E.g. high/low pass filters, shelf filters, bell filters, etc.
+- Digital Signal Processing (DSP): There are a ton of digital filters that one needs to be familiar with. E.g. high/low pass filters, shelf filters, bell filters, etc.
 - pyrubberband: This library has some nice functions for stretching sounds (necessary for BPM conversions). While one could change the playback rate, this modifies the pitch (not wanted). pyrubberband fixes this.
 
 Stay tuned for the stand-alone application!
