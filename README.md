@@ -13,7 +13,9 @@ Stay tuned for the stand-alone application!
 
 ## Demo
 
-Stay tuned for a video demo!
+Demo can be found here!
+
+https://drive.google.com/file/d/1mP2DiZHc_gm-sN7aHuSVtWsi_wK327jp/view?usp=sharing
 
 ## Current Features
 
